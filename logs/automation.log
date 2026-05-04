@@ -1,0 +1,73 @@
+2026-04-13 16:50:43 INFO  testCases.TC001_AccountRegistrationTest - ****************TC-001 Account Registration Started**************
+2026-04-13 16:50:44 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Accounts link
+2026-04-13 16:50:45 INFO  testCases.TC001_AccountRegistrationTest - inserted the password
+2026-04-13 16:52:14 INFO  testCases.TC001_AccountRegistrationTest - ****************TC-001 Account Registration Started**************
+2026-04-13 16:52:14 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Accounts link
+2026-04-13 16:52:15 INFO  testCases.TC001_AccountRegistrationTest - inserted the password
+2026-04-13 18:39:55 INFO  testCases.TC001_AccountRegistrationTest - ****************TC-001 Account Registration Started**************
+2026-04-13 18:39:55 ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+2026-04-13 18:45:54 INFO  testCases.TC001_AccountRegistrationTest - ****************TC-001 Account Registration Started**************
+2026-04-13 18:45:56 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Accounts link
+2026-04-13 18:45:58 INFO  testCases.TC001_AccountRegistrationTest - inserted the password
+2026-04-13 18:46:14 INFO  testCases.TC001_AccountRegistrationTest - ****************TC-001 Account Registration Started**************
+2026-04-13 18:46:15 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Accounts link
+2026-04-13 18:46:16 INFO  testCases.TC001_AccountRegistrationTest - inserted the password
+2026-04-13 18:46:17 INFO  testCases.TC001_AccountRegistrationTest - ****************TC-001 Account Registration Started**************
+2026-04-13 18:46:18 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Accounts link
+2026-04-13 18:46:19 INFO  testCases.TC001_AccountRegistrationTest - inserted the password
+2026-04-20 13:25:24 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 13:25:25 INFO  testCases.TC003_LoginDDT - ****TC_003_DDTLogin__Finished test case
+2026-04-20 13:25:25 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 13:25:26 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 13:25:27 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 13:30:27 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 13:30:28 INFO  testCases.TC003_LoginDDT - ****TC_003_DDTLogin__Finished test case
+2026-04-20 13:30:28 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 13:30:30 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 13:30:31 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:16:01 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:16:04 INFO  testCases.TC003_LoginDDT - ****TC_003_DDTLogin__Finished test case
+2026-04-20 15:16:04 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:16:05 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:16:06 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:26:26 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:26:37 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:26:39 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:26:40 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:28:36 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:28:47 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:28:48 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:28:49 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:33:25 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:33:37 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:33:38 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:33:39 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:48:21 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:48:32 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:48:33 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:48:34 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:56:15 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:56:27 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:56:28 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-20 15:56:30 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-24 13:05:46 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-24 13:05:57 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-24 13:05:58 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-24 13:05:59 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 12:33:02 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 12:33:13 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 12:33:24 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 12:33:26 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 15:42:05 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 15:42:16 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 15:42:18 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 15:42:19 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 15:43:48 INFO  testCases.TC002_LoginPage - ***starting TC002*****
+2026-04-25 15:43:59 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 15:44:10 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 15:44:12 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 15:44:13 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 16:34:38 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 16:34:50 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 16:34:51 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
+2026-04-25 16:34:52 INFO  testCases.TC003_LoginDDT - ****starting the TC003_DDT Login****
